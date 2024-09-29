@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "server": "node backend/server.js"
+    "server": "node backend/server.js",
+    "build": "echo 'No build step for backend'"
   },
   "type": "module",
   "keywords": [],
